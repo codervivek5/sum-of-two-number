@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sum of two numbers</string>
+    <string name="sum_of_two_numbers">sum of two numbers</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="calculate">Calculate</string>
+    <string name="output">TextView</string>
+    <string name="todo">TODO</string>
+</resources>
